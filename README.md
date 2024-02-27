@@ -86,7 +86,7 @@ hieght="38.30" /></a>
 
 <h4>Click the button below to deploy on Okteto!</h4>
 
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/BikashHalderNew/Bgtplayer">
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/Maxtech96/Epicmusicplayer">
   <img
 src="https://img.shields.io/badge/Deploy%20On%20Okteto-lightpink?style=for-the-badge&logo=Okteto" width="220""/>
 </a>
@@ -107,7 +107,7 @@ src="https://img.shields.io/badge/Deploy%20On%20Mogenius-grey?style=for-the-badg
 Check Out [Necessary Variables Here](https://github.com/BikashHalderNew/Bgtplayer/blob/bikash/Internal)
 fill these vars
 
-<a href="https://railway.app/new/template?template=https://github.com/BikashHalderNew/Bgtplayer-Deploy&envs=STRING_SESSION,BOT_TOKEN,OWNER_ID,MONGO_DB_URI,API_ID,API_HASH"><img src="https://railway.app/button.svg" alt="Deploy on Railway" /></a>
+<a href="https://railway.app/new/template?template=https://github.com/Maxtech96/Epicmusicplayer-Deploy&envs=STRING_SESSION,BOT_TOKEN,OWNER_ID,MONGO_DB_URI,API_ID,API_HASH"><img src="https://railway.app/button.svg" alt="Deploy on Railway" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -115,7 +115,7 @@ fill these vars
 <h4>Click On the below button to deploy on scalingo<h4>
 
 <a
-href="https://scalingo.com/deploy?template=https://github.com/BikashHalderNew/Bgtplayer"><img src="https://img.shields.io/badge/Deploy%20On%20Scalingo-silver?style=for-the-badge&logo=Scalingo" width="220"
+href="https://scalingo.com/deploy?template=https://github.com/Maxtech96/Epicmusicplayer"><img src="https://img.shields.io/badge/Deploy%20On%20Scalingo-silver?style=for-the-badge&logo=Scalingo" width="220"
 hieght="38.30" /></a>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -124,7 +124,7 @@ hieght="38.30" /></a>
 <h4>Click On the below button to deploy on uffizzi platform!<h4>
 
 <a
-href="https://uffizzi.com/deploy?template=https://github.com/BikashHalderNew/Bgtplayer"><img src="https://img.shields.io/badge/Deploy%20On%20Uffizzi-gold?style=for-the-badge&logo=Uffizzi" width="220"
+href="https://uffizzi.com/deploy?template=https://github.com/Maxtech96/Epicmusicplayer"><img src="https://img.shields.io/badge/Deploy%20On%20Uffizzi-gold?style=for-the-badge&logo=Uffizzi" width="220"
 hieght="38.30" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -134,7 +134,7 @@ hieght="38.30" /></a>
 <h4>Click the button below to deploy Bikash Music Bot on Heroku!</h4>    
 
 <a
-href="https://heroku.com/deploy?template=https://github.com/BikashHalderNew/Bgtplayer"><img src="https://img.shields.io/badge/Deploy%20On%20Heroku-seagreen?style=for-the-badge&logo=Heroku" width="220"
+href="https://heroku.com/deploy?template=https://github.com/Maxtech96/Epicmusicplayer"><img src="https://img.shields.io/badge/Deploy%20On%20Heroku-seagreen?style=for-the-badge&logo=Heroku" width="220"
 hieght="38.30" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -142,7 +142,7 @@ hieght="38.30" /></a>
 ## Clever Cloud Deployment :
 
 <a
-href="https://www.clever-cloud.com/deploy?template=https://github.com/BikashHalderNew/Bgtplayer"><img src="https://img.shields.io/badge/Deploy%20Clever%20Cloud-blue?style=for-the-badge&logo=Clever" width="220"
+href="https://www.clever-cloud.com/deploy?template=https://github.com/Maxtech96/Epicmusicplayer"><img src="https://img.shields.io/badge/Deploy%20Clever%20Cloud-blue?style=for-the-badge&logo=Clever" width="220"
 hieght="38.30" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -162,7 +162,7 @@ hieght="38.30" /></a>
 - Install Node js by :
 ``curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm``
 - Clone the repository by :
-``git clone https://github.com/BikashHalderNew/Bgtplayer && cd Bgtplayer``
+``git clone https://github.com/Maxtech96/Epicmusicplayer && cd Epicmusicplayer``
 - Install requirements by :
 ``pip3 install -U -r Installer``
 - Fill your variables in the env by :
